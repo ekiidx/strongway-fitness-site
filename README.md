@@ -1,2 +1,2 @@
 # strongway-fitness-site
-This is a fitness themed website template.
+A modern fitness themed website template.
