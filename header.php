@@ -38,16 +38,16 @@
 	<!-- Fonts -->
                 
 	<!-- Stylesheets -->
-    <?php $phpVersion = '?v=1.0.0'; ?>
-    <link rel="stylesheet" href="<?php echo '/assets/css/main.css' . $phpVersion; ?>">
-    <link rel="stylesheet" href="<?php echo '/assets/css/responsive.css' . $phpVersion; ?>">
+    	<?php $phpVersion = '?v=1.0.0'; ?>
+    	<link rel="stylesheet" href="<?php echo '/assets/css/main.css' . $phpVersion; ?>">
+    	<link rel="stylesheet" href="<?php echo '/assets/css/responsive.css' . $phpVersion; ?>">
 
 	<!--
 	 _   __           ___          _
 	| | / /_ _____   / _ \___ ___ (_)__ ____
 	| |/ / // / -_) / // / -_|_-</ / _ `/ _ \
 	|___/\_,_/\__/ /____/\__/___/_/\_, /_//_/
-                                  /___/
+				      /___/
 	-->
 
 </head>
