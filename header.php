@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Strongway | Women's Fitness | Vue Design</title>
 
 	<!-- Favicon -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -16,7 +17,8 @@
 	<meta name="theme-color" content="#000000">
 
 	<!-- Search Engine -->
-	<meta name="description" content="">
+	<meta name="description" content="Strong Way workout business website template designed by Vue Design">
+	<meta name="keywords" content="Vue Design, Design, Web Design, Graphic Design, Cleveland Web Design, Web Development">
 	<meta name="image" content="">
 	<!-- Schema.org for Google -->
 	<meta itemprop="name" content="">
@@ -36,11 +38,14 @@
 	<!--Bootstrap-->
 
 	<!-- Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet">
                 
 	<!-- Stylesheets -->
-    	<?php $phpVersion = '?v=1.0.0'; ?>
-    	<link rel="stylesheet" href="<?php echo '/assets/css/main.css' . $phpVersion; ?>">
-    	<link rel="stylesheet" href="<?php echo '/assets/css/responsive.css' . $phpVersion; ?>">
+	<?php $phpVersion = '?v=1.0.0'; ?>
+	<link rel="stylesheet" href="/wp-content/themes/vue/portfolio/strongway/css/bootstrap.min.css" type="text/css">
+	<link rel="stylesheet" href="<?php echo '/assets/css/main.css' . $phpVersion; ?>">
+	<link rel="stylesheet" href="<?php echo '/assets/css/responsive.css' . $phpVersion; ?>">
 
 	<!--
 	 _   __           ___          _
@@ -54,4 +59,39 @@
 
 <body>
 
-<header></header>
+	<!-- Header Section -->
+	<header class="header-section">
+		<div class="container-fluid">
+			<div class="logo">
+				<a href="#">
+					<img style="width: 170px;" src="/wp-content/themes/vue/portfolio/strongway/img/logo.svg" alt="Strong Way logo">
+				</a>
+			</div>
+			<div class="top-social">
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				<a href="#"><i class="fa fa-instagram"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="#"><i class="fa fa-youtube-play"></i></a>
+			</div>
+			<div class="container">
+				<div class="nav-menu">
+					<nav class="mainmenu mobile-menu">
+						<ul>
+							<li><!--<li class="active">--><a href="#">Home</a></li>
+							<li><a href="#">About us</a></li>
+							<li><a href="#">Schedule</a></li>
+							<li><a href="#">Gallery</a></li>
+							<li><a href="#">Blog</a>
+								<ul class="dropdown">
+									<li><a href="#">ABOUT US</a></li>
+									<li><a href="#">BLOG</a></li>
+								</ul>
+							</li>
+							<li><a href="#">Contacts</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<div id="mobile-menu-wrap"></div>
+		</div>
+	</header>
