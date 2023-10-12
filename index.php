@@ -1,11 +1,11 @@
 <?php include 'header.php'; ?>
 
 <main id="home">
-    
+
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="hero-items owl-carousel">
-            <div class="single-hero-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/hero-1.jpg">
+            <div class="single-hero-item set-bg" data-setbg="/assets/img/hero-1.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </div>
-            <div class="single-hero-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/hero-2.jpg">
+            <div class="single-hero-item set-bg" data-setbg="/assets/img/hero-2.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
             </div>
-            <div class="single-hero-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/hero-3.jpg">
+            <div class="single-hero-item set-bg" data-setbg="/assets/img/hero-3.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -52,21 +52,21 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="feature-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-1.jpg">
+                    <div class="feature-item set-bg" data-setbg="/assets/img/class-1.jpg">
                         <h3>GROUP CLASSES</h3>
                         <p>Join a group that works for you<br /> and your schedule.</p>
                         <a href="#" class="primary-btn f-btn">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="feature-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-2.jpg">
+                    <div class="feature-item set-bg" data-setbg="/assets/img/class-2.jpg">
                         <h3>PERSONAL TRAINING</h3>
                         <p>Sign up for a personal trainer that can<br />help create a program that works for you.</p>
                         <a href="#" class="primary-btn f-btn">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="feature-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-3.jpg">
+                    <div class="feature-item set-bg" data-setbg="/assets/img/class-3.jpg">
                         <h3>Sports Nutrition</h3>
                         <p>Find a nutritional plan that can help<br />increase your wellness.</p>
                         <a href="#" class="primary-btn f-btn">Read More</a>
@@ -92,7 +92,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="about-img">
-                        <img src="/wp-content/themes/vue/portfolio/strongway/img/about.jpg" alt="">
+                        <img src="/assets/img/about.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
 
     <!-- Classes CTA Section -->
     <section class="classes-section">
-        <div class="class-title set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/classes-cta-bg-2.jpg">
+        <div class="class-title set-bg" data-setbg="/assets/img/classes-cta-bg-2.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 m-auto text-center">
@@ -116,28 +116,28 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
-                    <div class="classes-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-4.jpg">
+                    <div class="classes-item set-bg" data-setbg="/assets/img/class-4.jpg">
                         <h4>Woman's Crossfit</h4>
                         <p>Crossfit with instructor Laura Hills. Morning & evening classes available.</p>
                         <a href="#" class="primary-btn class-btn">Sign Up</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="classes-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-5.jpg">
+                    <div class="classes-item set-bg" data-setbg="/assets/img/class-5.jpg">
                         <h4>Weightlifting</h4>
                         <p>Beginner & Advanced Weightlifting. Afternoon & Evening classes available.</p>
                         <a href="#" class="primary-btn class-btn">Sign Up</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="classes-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-6.jpg">
+                    <div class="classes-item set-bg" data-setbg="/assets/img/class-6.jpg">
                         <h4>Hot Yoga</h4>
                         <p>Morning & Evening Yoga with Sheri Hinda. Beginners and Advanced welcome.</p>
                         <a href="#" class="primary-btn class-btn">Sign Up</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="classes-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/class-7.jpg">
+                    <div class="classes-item set-bg" data-setbg="/assets/img/class-7.jpg">
                         <h4>Nutrition 101</h4>
                         <p>Nutrition classes with Sheri Hinda. Afternoon & Evening classes available.</p>
                         <a href="#" class="primary-btn class-btn">Sign Up</a>
@@ -305,7 +305,7 @@
     </section>
 
     <!-- Price Plan Section -->
-    <section class="price-section spad set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/price-bg.jpg">
+    <section class="price-section spad set-bg" data-setbg="/assets/img/price-bg.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -397,42 +397,42 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
-                        <img style="width: auto; height: 70px;" src="/wp-content/themes/vue/portfolio/strongway/img/icon-1.png" alt="">
+                        <img style="width: auto; height: 70px;" src="/assets/img/icon-1.png" alt="">
                         <h5>By Women For Women</h5>
                         <p>Our gym is supportive of the everyday woman and offers classes and resources for a healthy lifestyle.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
-                        <img style="width: auto; height: 70px;" src="/wp-content/themes/vue/portfolio/strongway/img/icon-2.png" alt="">
+                        <img style="width: auto; height: 70px;" src="/assets/img/icon-2.png" alt="">
                         <h5>Daily Checklist</h5>
                         <p>We offer daily and weekly checklists through our membership programs and also through a per class basis.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
-                        <img style="width: auto; height: 70px;" src="/wp-content/themes/vue/portfolio/strongway/img/icon-3.png" alt="">
+                        <img style="width: auto; height: 70px;" src="/assets/img/icon-3.png" alt="">
                         <h5>Full Calander</h5>
                         <p>We offer daily and weekly classes through our membership programs and also through a per class basis.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
-                        <img style="width: auto; height: 70px;" src="/wp-content/themes/vue/portfolio/strongway/img/icon-4.png" alt="">
+                        <img style="width: auto; height: 70px;" src="/assets/img/icon-4.png" alt="">
                         <h5>Modern Equipment</h5>
                         <p>We offer modern and updated equipment to all classes and membership levels.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
-                        <img style="width: auto; height: 70px;" src="/wp-content/themes/vue/portfolio/strongway/img/icon-5.png" alt="">
+                        <img style="width: auto; height: 70px;" src="/assets/img/icon-5.png" alt="">
                         <h5>Wellness Programs</h5>
                         <p>We offer many different kinds of programs for wellness including meditation and hot yoga daily and weekly.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="choose-item">
-                        <img style="width: auto; height: 70px;" src="/wp-content/themes/vue/portfolio/strongway/img/icon-6.png" alt="">
+                        <img style="width: auto; height: 70px;" src="/assets/img/icon-6.png" alt="">
                         <h5>Nutritional Resources</h5>
                         <p>Plan your meals and get professional advice to help with daily meal choices to make the healiest decisions for the modern woman.</p>
                     </div>
@@ -442,7 +442,7 @@
     </section>
 
     <!-- Video Section -->
-    <section class="video-section set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/video-bg.jpg">
+    <section class="video-section set-bg" data-setbg="/assets/img/video-bg.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -471,7 +471,7 @@
             <div class="row blog-gird">
                 <div class="grid-sizer"></div>
                 <div class="col-lg-4 col-md-6 grid-item">
-                    <div class="blog-item large-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/blog-1.jpg">
+                    <div class="blog-item large-item set-bg" data-setbg="/assets/img/blog-1.jpg">
                         <a href="#" class="blog-text">
                             <div class="categories">Beginner Crossfit</div>
                             <h5>A list of ideas for the beginner crossfit</h5>
@@ -487,7 +487,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
-                    <div class="blog-item small-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/blog-2.jpg">
+                    <div class="blog-item small-item set-bg" data-setbg="/assets/img/blog-2.jpg">
                         <a href="#" class="blog-text">
                             <div class="categories">Weightlifting</div>
                             <h5>How to safely lift weights at the gym or at home</h5>
@@ -495,7 +495,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
-                    <div class="blog-item large-item xls-large set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/blog-3.jpg">
+                    <div class="blog-item large-item xls-large set-bg" data-setbg="/assets/img/blog-3.jpg">
                         <a href="#" class="blog-text">
                             <div class="categories">Fitness</div>
                             <h5>How to make time for your daily workout routine</h5>
@@ -503,7 +503,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
-                    <div class="blog-item large-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/blog-4.jpg">
+                    <div class="blog-item large-item set-bg" data-setbg="/assets/img/blog-4.jpg">
                         <a href="#" class="blog-text">
                             <div class="categories">Beginner Crossfit</div>
                             <h5>5 Tips to make your next class productive</h5>
@@ -516,7 +516,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grid-item">
-                    <div class="blog-item small-item set-bg" data-setbg="/wp-content/themes/vue/portfolio/strongway/img/blog-5.jpg">
+                    <div class="blog-item small-item set-bg" data-setbg="/assets/img/blog-5.jpg">
                         <a href="#" class="blog-text">
                             <div class="categories">Advanced Crossfit</div>
                             <h5>5 ways to take your workout to the next level</h5>

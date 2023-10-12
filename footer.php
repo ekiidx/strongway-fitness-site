@@ -5,7 +5,7 @@
                 <div class="col-lg-3">
                     <div class="footer-logo-item">
                         <div class="f-logo">
-                            <a href="#"><img style="width: 170px;" src="/wp-content/themes/vue/portfolio/strongway/img/logo.svg" alt="Strong Way logo"></a>
+                            <a href="#"><img style="width: 170px;" src="/assets/img/logo.svg" alt="Strong Way logo"></a>
                         </div>
                         <p>STRONG WAY is a group oriented classroom and gym program that can help everyday women make healthy lifestyle choices.</p>
                         <div class="social-links">
@@ -84,9 +84,15 @@
     </footer>
 
     <!-- Javascript -->
-    <script src="/wp-content/themes/vue/portfolio/strongway/js/jquery-3.3.1.min.js"></script>
-    <script src="/wp-content/themes/vue/portfolio/strongway/js/bootstrap.min.js"></script>
-    <script src="/wp-content/themes/vue/portfolio/strongway/js/main.js"></script>
+    <script src="/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/assets/js/mixitup.min.js"></script>
+    <script src="/assets/js/jquery.nice-select.min.js"></script>
+    <script src="/assets/js/jquery.slicknav.js"></script>
+    <script src="/assets/js/owl.carousel.min.js"></script>
+    <script src="/assets/js/masonry.pkgd.min.js"></script>
+    <script src="/assets/js/main.js"></script>
 
 </body>
 </html>

@@ -35,17 +35,20 @@
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 
-	<!--Bootstrap-->
-
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet">
                 
 	<!-- Stylesheets -->
 	<?php $phpVersion = '?v=1.0.0'; ?>
-	<link rel="stylesheet" href="/wp-content/themes/vue/portfolio/strongway/css/bootstrap.min.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/slicknav.min.css" type="text/css">
 	<link rel="stylesheet" href="<?php echo '/assets/css/main.css' . $phpVersion; ?>">
-	<link rel="stylesheet" href="<?php echo '/assets/css/responsive.css' . $phpVersion; ?>">
 
 	<!--
 	 _   __           ___          _
@@ -59,12 +62,17 @@
 
 <body>
 
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div> 
+
 	<!-- Header Section -->
 	<header class="header-section">
 		<div class="container-fluid">
 			<div class="logo">
 				<a href="#">
-					<img style="width: 170px;" src="/wp-content/themes/vue/portfolio/strongway/img/logo.svg" alt="Strong Way logo">
+					<img style="width: 170px;" src="/assets/img/logo.svg" alt="Strong Way logo">
 				</a>
 			</div>
 			<div class="top-social">
