@@ -1,4 +1,6 @@
 # strongway-fitness-site
 A modern fitness themed website template.
 
-This template uses bootstrap and CSS as a UI framework.
+This template uses bootstrap as a UI framework.
+
+<img src="/assets/img/strongway-preview.jpg">
