@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>
+	<head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -37,29 +37,29 @@
 
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700,800,900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet">
-                
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet">
+
 	<!-- Stylesheets -->
 	<?php $phpVersion = '?v=1.0.0'; ?>
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
 	<link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/elegant-icons.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/nice-select.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/magnific-popup.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/slicknav.min.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/elegant-icons.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/nice-select.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/owl.carousel.min.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/magnific-popup.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/slicknav.min.css" type="text/css">
 	<link rel="stylesheet" href="<?php echo '/assets/css/main.css' . $phpVersion; ?>">
 
 	<!--
-	 _   __           ___          _
+	_   __           ___          _
 	| | / /_ _____   / _ \___ ___ (_)__ ____
 	| |/ / // / -_) / // / -_|_-</ / _ `/ _ \
 	|___/\_,_/\__/ /____/\__/___/_/\_, /_//_/
-								  /___/
+								/___/
 	-->
 
-</head>
-
+	</head>
+	
 <body>
 
     <!-- Page Preloder -->
