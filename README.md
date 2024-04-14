@@ -12,4 +12,4 @@ Strong Way is a gym by women, for women located near Columbus, Ohio. Strong Way 
 
 The client needed a way to schedule and promote classes in a variety of different times, and in different categories. I decided to build them an interactive menu that would allow for easy updating. The client also requested a re-brand of the company including the logo. The website was built in collaboration using Figma as a project management tool.
 
-This template uses [bootstrap](https://) as a UI framework.
+This template uses [bootstrap](https://getbootstrap.com/) as a UI framework.
